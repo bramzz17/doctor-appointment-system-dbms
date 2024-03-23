@@ -1,5 +1,7 @@
 # doctor-appointment-system-dbms
 DBMS Mini-Project 
+# Submitted by
+Ananya, Bhramari Raju, Adithi Nayak, Prajna Jathan
 # Introduction
 This Doctor Appointment System is a mini-project designed to manage appointments between patients and doctors in a healthcare facility. It aims to streamline the appointment scheduling process, reduce waiting times, and improve overall efficiency in healthcare service delivery.
 # Features
