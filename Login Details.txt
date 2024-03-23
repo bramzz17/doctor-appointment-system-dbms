@@ -1,0 +1,25 @@
+Patient/User Login Details
+Username:- saanvi123@gmail.com  Password:- saanvi123@
+Username:- ananya123@gmail.com  Password:- ananya123@
+
+or Register a new user..:)
+
+Doctor Login Details
+Username:- priya@123gmail.com  Password:- priya@123
+Username:- rahul123@gmail.com  Password:- rahul123@
+Username:- anika123@gmail.com  Password:- anika123@
+Username:- veer123@gmail.com  Password:- veer123@
+Username:- diya123@gmail.com  Password:- diya123@
+Username:- arjun123@gmail.com  Password:- arjun123@
+Username:- maya123@gmail.com  Password:- maya123@
+Username:- mohsin123@gmail.com  Password:- mohsin123@
+Username:- nisha123@gmail.com  Password:- nisha123@
+Username:- kiran123@gmail.com  Password:- kiran123@
+Username:- ishaan123@gmail.com  Password:- ishaan123@
+Username:- anjali123@gmail.com  Password:- anjali123@
+Username:- kavya123@gmail.com  Password:- kavya123@
+Username:- nikhil123@gmail.com  Password:- nikhil123@
+Username:- riya123@gmail.com  Password:- riya123@
+
+Admin Login Details
+Username:- admin  Password:- karthi@19
